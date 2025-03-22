@@ -16,6 +16,15 @@ oasijdoiads
 - https://www.browserling.com/
 - https://crt.sh/
 - https://defuse.ca/online-x86-assembler.htm
+- https://metrics.torproject.org/
+- https://urlscan.io/
+- https://jodies.de/ipcalc
+- https://ipinfo.io/
+- https://whois.domaintools.com/
+- https://www.maxmind.com/en/geoip-demo
+- https://web.archive.org/
+- https://www.abuseipdb.com/
+- https://www.he.net/
 
 oasijdoiads
 - https://live.sysinternals.com/
